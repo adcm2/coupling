@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-d = np.loadtxt("spectra_test.STAT1.N")
+d = np.loadtxt("spectra_test.STAT1.Z")
 
 
 plt.rcParams.update({"font.size": 24})

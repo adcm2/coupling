@@ -254,8 +254,6 @@ c
             
 
             ! set the scaling parameters for vp and vs
-            ! drrel = 0.0;
-            ! dvsrel = 0.0;
             dvprel=.5*dvsrel  
             drrel=0.3*dvsrel
 

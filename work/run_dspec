@@ -14,7 +14,7 @@ tstep=20
 tend=256
 
 # frequency step (mHz)
-fstep=0.05
+fstep=0.01
 
 # target block width (mHz)
 fblock=0.05

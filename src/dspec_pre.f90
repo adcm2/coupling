@@ -144,7 +144,6 @@ program dspec_pre
   print *, 'dt = ',dt
   print *, 'nt = ',nt
   print *, 'nt*dt = ',nt*dt/3600.0_dp
-  print *, 'df = ', df
 
 
   ! divide the frequencies between the processors
